@@ -36,7 +36,7 @@ body {
     letter-spacing: 2px;
 }
 .joke {
-    font: 30px bold;
+    font: 30px;
     letter-spacing: 1px;
     line-height: 40px;
     margin: 50px auto;
